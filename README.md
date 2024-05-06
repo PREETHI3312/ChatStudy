@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## NAME: A K PREETHI
+## REGISTER NO: 212223230156
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
